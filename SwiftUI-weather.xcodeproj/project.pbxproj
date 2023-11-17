@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DB20A9042B058E3400DE37BC /* WeatherButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB20A9032B058E3400DE37BC /* WeatherButton.swift */; };
 		DBD0A0C02B02439A003B2EB7 /* SwiftUI_weatherApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBD0A0BF2B02439A003B2EB7 /* SwiftUI_weatherApp.swift */; };
 		DBD0A0C22B02439A003B2EB7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBD0A0C12B02439A003B2EB7 /* ContentView.swift */; };
 		DBD0A0C42B02439F003B2EB7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DBD0A0C32B02439F003B2EB7 /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		DB20A9032B058E3400DE37BC /* WeatherButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherButton.swift; sourceTree = "<group>"; };
 		DBD0A0BC2B02439A003B2EB7 /* SwiftUI-weather.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-weather.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DBD0A0BF2B02439A003B2EB7 /* SwiftUI_weatherApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_weatherApp.swift; sourceTree = "<group>"; };
 		DBD0A0C12B02439A003B2EB7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 			isa = PBXGroup;
 			children = (
 				DBD0A0C62B02439F003B2EB7 /* Preview Assets.xcassets */,
+				DB20A9032B058E3400DE37BC /* WeatherButton.swift */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			files = (
 				DBD0A0C22B02439A003B2EB7 /* ContentView.swift in Sources */,
 				DBD0A0C02B02439A003B2EB7 /* SwiftUI_weatherApp.swift in Sources */,
+				DB20A9042B058E3400DE37BC /* WeatherButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
